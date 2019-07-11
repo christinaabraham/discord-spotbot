@@ -1,8 +1,0 @@
-{
-	“name”: “spotbot”,
-	“version”: “1.0.0”,
-	“description”: “Just Another Music Bot”,
-	“main”: “bot.js”,
-	“author”: “Christina”,
-	“dependencies”: {}
-}
