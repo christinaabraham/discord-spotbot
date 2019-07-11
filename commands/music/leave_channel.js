@@ -1,6 +1,6 @@
 const commando = require("discord.js-commando");
 
-class JoinChannelCommand extends commando.Command {
+class LeaveChannelCommand extends commando.Command {
   constructor (client) {
     super(client, {
       name: "leave",
