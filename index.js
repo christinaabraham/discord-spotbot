@@ -12,7 +12,7 @@ global.currentTeamMembers = [];
 global.servers = {};
 
 bot.on("ready", async() => {
-  console.log(`${bot.user.username} is online!`);
+  console.log(`${bot.user.username} is now online!`);
   bot.user.setGame("coding! | ;help")
 });
 
